@@ -1,7 +1,7 @@
-def staff_info():
-    infomation = input("Enter Printing Information :")
-    date = input("Enter date : ")
-    staff_id = input("Enter Staff ID: ")
+def staff_info():                                                  #Create a Python function called staff_info which will ask the user to input staff's information
+    infomation = input("Enter Printing Information :")               #this one says to print
+    date = input("Enter date : ")                                       #this variable ask the user to put the date
+    staff_id = input("Enter Staff ID: ")                                # this one for staff_id
     staff_name = input("Enter Staff Name: ")
     
     requisition_counter = 10000
@@ -19,4 +19,5 @@ def staff_info():
 # staff_info()
 
     
+
 
