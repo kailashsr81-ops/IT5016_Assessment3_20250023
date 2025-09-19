@@ -1,4 +1,4 @@
-Ticket_ID = 20000
+Ticket_ID = 20000          
 
 class Booking_System():
     def __init__(self, name, id_number, status):
@@ -77,3 +77,4 @@ customer1.display_booking_info()
 customer1.print_static()
 
         
+
